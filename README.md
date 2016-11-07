@@ -11,7 +11,7 @@ When the function front_x(words) is called;
       
       Then, the fuction would return ['xanta', 'xdeam', 'deamna', 'ftart', 'meanm']
       
-THis function works and has been created with regard to python 2.7
+This function works and has been created with regard to python 2.7
 
 
 Enjoy...
